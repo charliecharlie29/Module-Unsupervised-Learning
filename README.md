@@ -1,6 +1,6 @@
 # Module-Unsupervised-Learning
 
-Containing modularized cells/script blocks demonstrating how to do:
+Containing modularized cells/script blocks demonstrating how to do with introduction/desciption:
 
 1. K-Means for Clustering
 2. PCA (Principle Component Analysis), Randomized PCA, Incremental PCA for dimensionality reduction
